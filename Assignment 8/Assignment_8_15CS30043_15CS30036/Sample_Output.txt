@@ -1,0 +1,14 @@
+Pinging - 10.3.100.102
+84 bytes from 10.3.100.102: icmp_seq=5 ttl=61 time=0.382493ms
+84 bytes from 10.3.100.102: icmp_seq=4 ttl=61 time=0.560971ms
+84 bytes from 10.3.100.102: icmp_seq=3 ttl=61 time=0.489058ms
+84 bytes from 10.3.100.102: icmp_seq=2 ttl=61 time=0.437864ms
+84 bytes from 10.3.100.102: icmp_seq=1 ttl=61 time=0.550168ms
+---Statistics---
+5 packets transmitted, 5 received, 0% packet loss, time 2.86508ms
+rtt min/avg/max/mdev = 0.382493/0.484111/0.560971/0.0591458 ms
+
+
+Observations:
+The output is similar to that of the linux ping command
+

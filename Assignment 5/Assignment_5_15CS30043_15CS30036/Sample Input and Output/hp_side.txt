@@ -1,0 +1,7 @@
+Chat Server Running.......
+asus/Hi
+10.117.8.245 Connected
+asus- Hi there
+Closing active socket to 10.117.8.245
+^C
+

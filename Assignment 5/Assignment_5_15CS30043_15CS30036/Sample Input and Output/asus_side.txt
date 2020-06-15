@@ -1,0 +1,7 @@
+Chat Server Running.......
+10.145.194.229 Connected
+hp- Hi
+hp/Hi there
+Closing active socket to 10.145.194.229
+^C
+
